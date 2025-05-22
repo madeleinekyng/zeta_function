@@ -1,0 +1,369 @@
+Magma V2.28-21    Tue May 13 2025 20:15:50 on freyja   [Seed = 3683690547]
+Type ? for help.  Type <Ctrl>-D to quit.
+Loading "testing_beyond_tuitman_2.m"
+Loading "count_plane_model.m"
+Loading "compute_corrections.m"
+Loading "compute_zeta_function.m"
+Loading "inputs_beyond_tuitman.m"
+ComputeGenusAndCorrections Memory (MB) :  32 
+
+Compute M_1: 3.090
+Traces of powers for M_1: 0.000
+Compute M_2: 10.500
+Traces of powers for M_2: 0.070
+Compute M_3: 25.860
+Traces of powers for M_3: 0.490
+Compute M_4: 42.600
+Traces of powers for M_4: 1.540
+Compute M_5: 82.480
+Traces of powers for M_5: 3.480
+Compute M_6: 92.890
+Traces of powers for M_6: 5.760
+Compute M_7: 159.520
+Traces of powers for M_7: 11.930
+ComputeMatrix cumulative time: 416.940
+TracesOfPowers cumulative time: 23.270
+CountPointsOnTorus Memory (MB) :  27342 
+
+191 , 11 , 0.190 , 440.770 , 440.960 , 27342
+
+Total time: 440.990 seconds, Total memory usage: 27342.94MB
+
+Magma V2.28-21    Tue May 13 2025 20:25:18 on freyja   [Seed = 778393631]
+Type ? for help.  Type <Ctrl>-D to quit.
+Loading "testing_beyond_tuitman_2.m"
+Loading "count_plane_model.m"
+Loading "compute_corrections.m"
+Loading "compute_zeta_function.m"
+Loading "inputs_beyond_tuitman.m"
+ComputeGenusAndCorrections Memory (MB) :  32 
+
+Compute M_1: 1.070
+Traces of powers for M_1: 0.010
+Compute M_2: 4.540
+Traces of powers for M_2: 0.080
+Compute M_3: 12.780
+Traces of powers for M_3: 0.490
+Compute M_4: 19.950
+Traces of powers for M_4: 1.590
+Compute M_5: 33.880
+Traces of powers for M_5: 3.500
+Compute M_6: 53.140
+Traces of powers for M_6: 5.990
+Compute M_7: 75.720
+Traces of powers for M_7: 12.360
+ComputeMatrix cumulative time: 201.080
+TracesOfPowers cumulative time: 24.020
+CountPointsOnTorus Memory (MB) :  16574 
+
+149 , 12 , 0.110 , 225.690 , 225.800 , 16574
+
+Total time: 225.819 seconds, Total memory usage: 16574.31MB
+
+Magma V2.28-21    Tue May 13 2025 20:34:14 on freyja   [Seed = 105729567]
+Type ? for help.  Type <Ctrl>-D to quit.
+Loading "testing_beyond_tuitman_2.m"
+Loading "count_plane_model.m"
+Loading "compute_corrections.m"
+Loading "compute_zeta_function.m"
+Loading "inputs_beyond_tuitman.m"
+ComputeGenusAndCorrections Memory (MB) :  32 
+
+Compute M_1: 2.620
+Traces of powers for M_1: 0.010
+Compute M_2: 7.810
+Traces of powers for M_2: 0.130
+Compute M_3: 22.120
+Traces of powers for M_3: 0.900
+Compute M_4: 30.570
+Traces of powers for M_4: 2.390
+Compute M_5: 71.410
+Traces of powers for M_5: 6.830
+Compute M_6: 73.300
+Traces of powers for M_6: 12.270
+Compute M_7: 136.080
+Traces of powers for M_7: 25.420
+Compute M_8: 128.060
+Traces of powers for M_8: 37.400
+ComputeMatrix cumulative time: 471.970
+TracesOfPowers cumulative time: 85.350
+CountPointsOnTorus Memory (MB) :  30868 
+
+151 , 13 , 0.260 , 558.500 , 558.760 , 30868
+
+Total time: 558.789 seconds, Total memory usage: 30868.38MB
+
+Magma V2.28-21    Tue May 13 2025 20:48:25 on freyja   [Seed = 1325663241]
+Type ? for help.  Type <Ctrl>-D to quit.
+Loading "testing_beyond_tuitman_2.m"
+Loading "count_plane_model.m"
+Loading "compute_corrections.m"
+Loading "compute_zeta_function.m"
+Loading "inputs_beyond_tuitman.m"
+ComputeGenusAndCorrections Memory (MB) :  32 
+
+Compute M_1: 0.660
+Traces of powers for M_1: 0.000
+Compute M_2: 2.710
+Traces of powers for M_2: 0.190
+Compute M_3: 7.660
+Traces of powers for M_3: 1.220
+Compute M_4: 13.630
+Traces of powers for M_4: 2.800
+Compute M_5: 23.080
+Traces of powers for M_5: 7.910
+Compute M_6: 34.940
+Traces of powers for M_6: 15.070
+Compute M_7: 54.640
+Traces of powers for M_7: 31.130
+Compute M_8: 72.060
+Traces of powers for M_8: 53.460
+ComputeMatrix cumulative time: 209.380
+TracesOfPowers cumulative time: 111.780
+CountPointsOnTorus Memory (MB) :  20071 
+
+101 , 14 , 0.070 , 322.730 , 322.800 , 20071
+
+Total time: 322.829 seconds, Total memory usage: 20071.25MB
+
+Magma V2.28-21    Tue May 13 2025 21:34:37 on freyja   [Seed = 3280504241]
+Type ? for help.  Type <Ctrl>-D to quit.
+Loading "testing_beyond_tuitman_2.m"
+Loading "count_plane_model.m"
+Loading "compute_corrections.m"
+Loading "compute_zeta_function.m"
+Loading "inputs_beyond_tuitman.m"
+ComputeGenusAndCorrections Memory (MB) :  32 
+
+Compute M_1: 0.220
+Traces of powers for M_1: 0.010
+Compute M_2: 1.010
+Traces of powers for M_2: 0.180
+Compute M_3: 2.760
+Traces of powers for M_3: 1.260
+Compute M_4: 5.100
+Traces of powers for M_4: 2.830
+Compute M_5: 9.840
+Traces of powers for M_5: 6.980
+Compute M_6: 14.990
+Traces of powers for M_6: 18.040
+Compute M_7: 23.920
+Traces of powers for M_7: 37.800
+Compute M_8: 33.290
+Traces of powers for M_8: 67.740
+Compute M_9: 49.390
+Traces of powers for M_9: 116.920
+ComputeMatrix cumulative time: 140.520
+TracesOfPowers cumulative time: 251.760
+CountPointsOnTorus Memory (MB) :  28449 
+
+61 , 15 , 0.040 , 395.230 , 395.270 , 28449
+
+Total time: 395.319 seconds, Total memory usage: 28449.31MB
+
+Magma V2.28-21    Tue May 13 2025 21:52:06 on freyja   [Seed = 21650263]
+Type ? for help.  Type <Ctrl>-D to quit.
+Loading "testing_beyond_tuitman_2.m"
+Loading "count_plane_model.m"
+Loading "compute_corrections.m"
+Loading "compute_zeta_function.m"
+Loading "inputs_beyond_tuitman.m"
+ComputeGenusAndCorrections Memory (MB) :  32 
+
+Compute M_1: 0.670
+Traces of powers for M_1: 0.010
+Compute M_2: 2.520
+Traces of powers for M_2: 0.300
+Compute M_3: 6.210
+Traces of powers for M_3: 1.460
+Compute M_4: 10.970
+Traces of powers for M_4: 4.100
+Compute M_5: 20.940
+Traces of powers for M_5: 12.200
+Compute M_6: 26.980
+Traces of powers for M_6: 28.330
+Compute M_7: 47.040
+Traces of powers for M_7: 58.450
+Compute M_8: 62.160
+Traces of powers for M_8: 93.530
+Compute M_9: 93.400
+Traces of powers for M_9: 164.830
+ComputeMatrix cumulative time: 270.890
+TracesOfPowers cumulative time: 363.210
+CountPointsOnTorus Memory (MB) :  36984 
+
+79 , 16 , 0.070 , 638.060 , 638.130 , 36984
+
+Total time: 638.169 seconds, Total memory usage: 36984.72MB
+
+Magma V2.28-21    Tue May 13 2025 22:26:14 on freyja   [Seed = 2767189746]
+Type ? for help.  Type <Ctrl>-D to quit.
+Loading "testing_beyond_tuitman_2.m"
+Loading "count_plane_model.m"
+Loading "compute_corrections.m"
+Loading "compute_zeta_function.m"
+Loading "inputs_beyond_tuitman.m"
+ComputeGenusAndCorrections Memory (MB) :  32 
+
+Compute M_1: 0.070
+Traces of powers for M_1: 0.020
+Compute M_2: 0.400
+Traces of powers for M_2: 0.250
+Compute M_3: 1.200
+Traces of powers for M_3: 1.680
+Compute M_4: 2.640
+Traces of powers for M_4: 3.950
+Compute M_5: 5.130
+Traces of powers for M_5: 9.280
+Compute M_6: 8.870
+Traces of powers for M_6: 22.190
+Compute M_7: 14.740
+Traces of powers for M_7: 49.150
+Compute M_8: 23.510
+Traces of powers for M_8: 80.830
+Compute M_9: 35.710
+Traces of powers for M_9: 162.930
+Compute M_10: 50.790
+Traces of powers for M_10: 176.250
+ComputeMatrix cumulative time: 143.060
+TracesOfPowers cumulative time: 506.530
+CountPointsOnTorus Memory (MB) :  41894 
+
+37 , 17 , 0.050 , 653.740 , 653.790 , 41894
+
+Total time: 653.830 seconds, Total memory usage: 41894.84MB
+
+Magma V2.28-21    Wed May 14 2025 16:55:11 on freyja   [Seed = 3464665231]
+Type ? for help.  Type <Ctrl>-D to quit.
+Loading "testing_beyond_tuitman_2.m"
+Loading "count_plane_model.m"
+Loading "compute_corrections.m"
+Loading "compute_zeta_function.m"
+Loading "inputs_beyond_tuitman.m"
+ComputeGenusAndCorrections Memory (MB) :  32 
+
+Compute M_1: 0.000
+Traces of powers for M_1: 0.010
+Compute M_2: 0.060
+Traces of powers for M_2: 0.100
+Compute M_3: 0.260
+Traces of powers for M_3: 0.830
+Compute M_4: 0.780
+Traces of powers for M_4: 1.920
+Compute M_5: 1.870
+Traces of powers for M_5: 4.470
+Compute M_6: 3.800
+Traces of powers for M_6: 10.800
+Compute M_7: 6.970
+Traces of powers for M_7: 22.200
+Compute M_8: 11.780
+Traces of powers for M_8: 42.550
+Compute M_9: 18.780
+Traces of powers for M_9: 88.030
+Compute M_10: 28.510
+Traces of powers for M_10: 131.910
+Compute M_11: 41.600
+Traces of powers for M_11: 217.980
+Compute M_12: 58.690
+Traces of powers for M_12: 226.210
+ComputeMatrix cumulative time: 173.100
+TracesOfPowers cumulative time: 747.010
+CountPointsOnTorus Memory (MB) :  18444 
+
+5 , 18 , 0.030 , 921.140 , 921.170 , 18444
+
+Total time: 1904.920 seconds, Total memory usage: 30750.19MB
+
+Magma V2.28-21    Wed May 14 2025 13:25:29 on freyja   [Seed = 4122579159]
+Type ? for help.  Type <Ctrl>-D to quit.
+Loading "testing_beyond_tuitman_2.m"
+Loading "count_plane_model.m"
+Loading "compute_corrections.m"
+Loading "compute_zeta_function.m"
+Loading "inputs_beyond_tuitman.m"
+ComputeGenusAndCorrections Memory (MB) :  32 
+
+Compute M_1: 0.010
+Traces of powers for M_1: 0.010
+Compute M_2: 0.050
+Traces of powers for M_2: 0.140
+Compute M_3: 0.230
+Traces of powers for M_3: 0.890
+Compute M_4: 0.650
+Traces of powers for M_4: 2.470
+Compute M_5: 1.590
+Traces of powers for M_5: 5.720
+Compute M_6: 3.220
+Traces of powers for M_6: 13.550
+Compute M_7: 5.710
+Traces of powers for M_7: 29.340
+Compute M_8: 10.070
+Traces of powers for M_8: 51.620
+Compute M_9: 16.130
+Traces of powers for M_9: 86.570
+Compute M_10: 23.240
+Traces of powers for M_10: 145.070
+Compute M_11: 35.570
+Traces of powers for M_11: 160.740
+Compute M_12: 47.740
+Traces of powers for M_12: 243.930
+ComputeMatrix cumulative time: 144.210
+TracesOfPowers cumulative time: 740.050
+CountPointsOnTorus Memory (MB) :  51995 
+
+7 , 19 , 0.030 , 890.630 , 890.660 , 51995
+
+Total time: 890.730 seconds, Total memory usage: 51995.88MB
+
+
+
+Magma V2.28-21    Wed May 14 2025 20:16:15 on freyja   [Seed = 3220421331]
+Type ? for help.  Type <Ctrl>-D to quit.
+Loading "testing_beyond_tuitman_2.m"
+Loading "count_plane_model.m"
+Loading "compute_corrections.m"
+Loading "compute_zeta_function.m"
+Loading "inputs_beyond_tuitman.m"
+ComputeGenusAndCorrections Memory (MB) :  32 
+
+Compute M_1: 0.010
+Traces of powers for M_1: 0.010
+Compute M_2: 0.050
+Traces of powers for M_2: 0.110
+Compute M_3: 0.230
+Traces of powers for M_3: 0.960
+Compute M_4: 0.720
+Traces of powers for M_4: 2.240
+Compute M_5: 1.710
+Traces of powers for M_5: 5.460
+Compute M_6: 3.490
+Traces of powers for M_6: 12.330
+Compute M_7: 6.400
+Traces of powers for M_7: 25.790
+Compute M_8: 10.860
+Traces of powers for M_8: 50.690
+Compute M_9: 17.270
+Traces of powers for M_9: 90.590
+Compute M_10: 26.200
+Traces of powers for M_10: 175.120
+Compute M_11: 38.250
+Traces of powers for M_11: 250.110
+Compute M_12: 53.960
+Traces of powers for M_12: 407.140
+Compute M_13: 74.250
+Traces of powers for M_13: 650.350
+Compute M_14: 99.610
+Traces of powers for M_14: 958.530
+Compute M_15: 131.110
+Traces of powers for M_15: 1200.870
+Compute M_16: 169.490
+Traces of powers for M_16: 1719.880
+Compute M_17: 215.770
+Traces of powers for M_17: 2005.130
+ComputeMatrix cumulative time: 849.380
+TracesOfPowers cumulative time: 7555.310
+CountPointsOnTorus Memory (MB) :  99478 
+
+3 , 24 , 0.030 , 8409.490 , 8409.520 , 99478
+
+Total time: 8409.559 seconds, Total memory usage: 99478.66MB
